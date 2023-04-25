@@ -1,2 +1,2 @@
-# Calculadora IMC
- Calculadora de IMC criada com Python
+# 🥗 Calculadora IMC
+ Calculadora de índice de massa corporal.
